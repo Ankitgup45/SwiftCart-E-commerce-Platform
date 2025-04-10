@@ -1,0 +1,45 @@
+[
+    
+    { "id": 1, "name": "Men's Shirt", "category": "Men Wear", "price": 25, "image": "/images/product_1.jpg" },
+    { "id": 2, "name": "Men's Jeans", "category": "Men Wear", "price": 40, "image": "/images/product_2.jpg" },
+    { "id": 3, "name": "Men's Jacket", "category": "Men Wear", "price": 60, "image": "/images/product_3.jpg" },
+    { "id": 4, "name": "Men's T-Shirt", "category": "Men Wear", "price": 20, "image": "/images/product_4.jpg" },
+    { "id": 5, "name": "Men's Sneakers", "category": "Men Wear", "price": 50, "image": "/images/product_5.jpg" },
+    { "id": 6, "name": "Men's Watch", "category": "Men Wear", "price": 80, "image": "/images/product_6.jpg" },
+    { "id": 7, "name": "Men's Suit", "category": "Men Wear", "price": 150, "image": "/images/product_7.jpg" },
+    { "id": 8, "name": "Men's Cap", "category": "Men Wear", "price": 20, "image": "/images/product_8.jpg" },
+    { "id": 9, "name": "Men's Sunglasses", "category": "Men Wear", "price": 30, "image": "/images/product_9.jpg" },
+    { "id": 10, "name": "Men's Belt", "category": "Men Wear", "price": 15, "image": "/images/product_10.jpg" },
+    { "id": 11, "name": "Men's Socks", "category": "Men Wear", "price": 10, "image": "/images/product_11.jpg" },
+    { "id": 12, "name": "Men's Shorts", "category": "Men Wear", "price": 35, "image": "/images/product_12.jpg" },
+    { "id": 13, "name": "Men's Running Shoes", "category": "Men Wear", "price": 70, "image": "/images/product_13.jpg" },
+    { "id": 14, "name": "Men's Formal Shoes", "category": "Men Wear", "price": 90, "image": "/images/product_14.jpg" },
+    { "id": 15, "name": "Men's Hoodie", "category": "Men Wear", "price": 55, "image": "/images/product_15.jpg" },
+  
+    
+    { "id": 16, "name": "Women's Dress", "category": "Women Wear", "price": 50, "image": "/images/product_16.jpg" },
+    { "id": 17, "name": "Women's Skirt", "category": "Women Wear", "price": 40, "image": "/images/product_17.jpg" },
+    { "id": 18, "name": "Women's Heels", "category": "Women Wear", "price": 60, "image": "/images/product_18.jpg" },
+    { "id": 19, "name": "Women's Earrings", "category": "Women Wear", "price": 20, "image": "/images/product_19.jpg" },
+    { "id": 20, "name": "Women's T-Shirt", "category": "Women Wear", "price": 30, "image": "/images/product_20.jpg" },
+    { "id": 21, "name": "Women's Jacket", "category": "Women Wear", "price": 75, "image": "/images/product_21.jpg" },
+    { "id": 22, "name": "Women's Bag", "category": "Women Wear", "price": 45, "image": "/images/product_22.jpg" },
+    { "id": 23, "name": "Women's Sandals", "category": "Women Wear", "price": 35, "image": "/images/product_23.jpg" },
+    { "id": 24, "name": "Women's Jeans", "category": "Women Wear", "price": 50, "image": "/images/product_24.jpg" },
+    { "id": 25, "name": "Women's Sneakers", "category": "Women Wear", "price": 60, "image": "/images/product_25.jpg" },
+    
+   
+    { "id": 26, "name": "Smartphone", "category": "Electronics", "price": 500, "image": "/images/product_26.jpg" },
+    { "id": 27, "name": "Laptop", "category": "Electronics", "price": 1000, "image": "/images/product_27.jpg" },
+    { "id": 28, "name": "Headphones", "category": "Electronics", "price": 120, "image": "/images/product_28.jpg" },
+    { "id": 29, "name": "Smartwatch", "category": "Electronics", "price": 200, "image": "/images/product_29.jpg" },
+    { "id": 30, "name": "Gaming Console", "category": "Electronics", "price": 450, "image": "/images/product_30.jpg" },
+  
+    
+    { "id": 31, "name": "Blender", "category": "Household Items", "price": 60, "image": "/images/product_31.jpg" },
+    { "id": 32, "name": "Vacuum Cleaner", "category": "Household Items", "price": 150, "image": "/images/product_32.jpg" },
+    { "id": 33, "name": "Microwave", "category": "Household Items", "price": 200, "image": "/images/product_33.jpg" },
+    { "id": 34, "name": "Toaster", "category": "Household Items", "price": 80, "image": "/images/product_34.jpg" },
+    { "id": 35, "name": "Air Fryer", "category": "Household Items", "price": 130, "image": "/images/product_35.jpg" }
+  ]
+  

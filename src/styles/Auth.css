@@ -1,0 +1,140 @@
+/* 🔹 Auth Page Styling */
+.auth-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: linear-gradient(135deg, #007bff, #6610f2);
+}
+
+.auth-box {
+  background: white;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  width: 350px;
+}
+
+.auth-title {
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.auth-error {
+  color: red;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.auth-input {
+  width: 100%;
+  padding: 12px;
+  margin: 8px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+.auth-btn {
+  width: 100%;
+  padding: 12px;
+  margin: 10px 0;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.auth-btn-signin {
+  background-color: #007bff;
+  color: white;
+  border: none;
+}
+
+.auth-btn-signin:hover {
+  background-color: #0056b3;
+}
+
+.auth-btn-signup {
+  background-color: #28a745;
+  color: white;
+  border: none;
+}
+
+.auth-btn-signup:hover {
+  background-color: #218838;
+}
+
+.auth-btn-google {
+  background-color: #db4437;
+  color: white;
+  border: none;
+}
+
+.auth-btn-google:hover {
+  background-color: #c1351c;
+}
+
+.auth-toggle {
+  font-size: 14px;
+  color: #555;
+  margin-top: 10px;
+}
+
+.auth-toggle span {
+  color: #007bff;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.auth-toggle span:hover {
+  text-decoration: underline;
+}
+
+/* ------------------ Responsive Styles ------------------ */
+@media (max-width: 768px) {
+  .auth-box {
+    width: 85%;
+    padding: 25px;
+  }
+
+  .auth-title {
+    font-size: 22px;
+  }
+
+  .auth-input,
+  .auth-btn {
+    font-size: 15px;
+    padding: 10px;
+  }
+
+  .auth-toggle {
+    font-size: 13px;
+  }
+}
+
+@media (max-width: 480px) {
+  .auth-box {
+    width: 95%;
+    padding: 20px;
+  }
+
+  .auth-title {
+    font-size: 20px;
+  }
+
+  .auth-input,
+  .auth-btn {
+    font-size: 14px;
+    padding: 9px;
+  }
+
+  .auth-toggle {
+    font-size: 12px;
+  }
+}

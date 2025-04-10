@@ -22,6 +22,8 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  padding: 1rem;
+  box-sizing: border-box;
 }
 
 .App-link {
@@ -34,5 +36,27 @@
   }
   to {
     transform: rotate(360deg);
+  }
+}
+
+/* ------------------ Responsive Styles ------------------ */
+@media (max-width: 768px) {
+  .App-header {
+    font-size: calc(10px + 1.5vmin);
+    padding: 1rem;
+  }
+
+  .App-logo {
+    height: 30vmin;
+  }
+}
+
+@media (max-width: 480px) {
+  .App-header {
+    font-size: calc(10px + 1vmin);
+  }
+
+  .App-logo {
+    height: 25vmin;
   }
 }
